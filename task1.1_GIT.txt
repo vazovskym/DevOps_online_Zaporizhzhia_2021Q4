@@ -1,0 +1,15 @@
+96aa546 HEAD@{0}: merge develop: Fast-forward
+921fab4 HEAD@{1}: checkout: moving from develop to main
+96aa546 HEAD@{2}: commit (merge): Conflict resolved
+9020103 HEAD@{3}: merge images: Fast-forward
+cf39302 HEAD@{4}: checkout: moving from styles to develop
+03a4e6b HEAD@{5}: commit: Changed index.html
+3da618d HEAD@{6}: commit: Added styles folder(added styles)
+cf39302 HEAD@{7}: checkout: moving from develop to styles
+cf39302 HEAD@{8}: checkout: moving from images to develop
+9020103 HEAD@{9}: commit: Changed index file(added images)
+ad6fd9c HEAD@{10}: commit: Added images folder
+cf39302 HEAD@{11}: checkout: moving from develop to images
+cf39302 HEAD@{12}: commit: Added index.html
+921fab4 HEAD@{13}: checkout: moving from main to develop
+921fab4 HEAD@{14}: commit (initial): Initial commit
