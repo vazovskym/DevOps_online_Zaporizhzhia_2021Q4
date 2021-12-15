@@ -1,0 +1,39 @@
+html, body{
+	height: 100%;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+
+.header_logo img{
+	max-width: 100%;
+	display: block;
+}
+.header_list{
+	display: flex;
+	position: relative;
+	z-index: 2;
+}
+
+.gallery{
+	background-color: #082032;
+}
+
+div.gallery_post {
+	background-color: #fff;
+	margin-top: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #ccc;
+	float: center;
+	position: center;
+	width: 60%;
+}
+
+div.gallery_post:hover {
+  border: 1px solid #777;
+}
+
+div.gallery_post img {
+  width: 100%;
+  height: auto;
+}
